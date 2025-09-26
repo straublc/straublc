@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estagiário na **Interligados**, atuando na área de **QA**, onde realizo testes para garantir a qualidade dos produtos. Além disso, auxilio na gestão de processos para melhorar a eficiência e organização da equipe. Paralelamente, desenvolvo projetos focados em aplicações web modernas, responsivas e performáticas.
+Sou estagiário na **Interligados**, atuando na área de **QA** e **Densenvolvimento front-end**, utilizando angular e realizando testes para uma entrega de qualidade. Além disso, auxilio na gestão de processos para melhorar a eficiência e organização da equipe. Paralelamente, desenvolvo projetos focados em aplicações web modernas, responsivas e performáticas. Mais recentemente, desenvolvi um sistema para gestão de uma casa de aluguel para temporada.
 
 ---
 
