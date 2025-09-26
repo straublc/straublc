@@ -42,7 +42,7 @@ Sou estagiário na **Interligados**, atuando na área de **QA**, onde realizo te
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=straublc&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=straublc&layout=compact&langs_count=7&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=straublc&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" />
 </div>
 
 ---
