@@ -56,7 +56,7 @@ Busco unir minha experiência em qualidade de software com meus conhecimentos em
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=straublc&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img height="160em" src="https://github-readme-stats-one-alpha.vercel.app/api?username=straublc&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
   <img height="160em" src="https://github-readme-stats-one-alpha.vercel.app/api/top-langs/?username=straublc&layout=compact&langs_count=20&theme=radical&cache_seconds=1800" alt="Linguagens mais utilizadas"/>
 </p>
 
